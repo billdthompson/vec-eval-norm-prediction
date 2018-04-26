@@ -14,7 +14,7 @@ logging.basicConfig(format='%(levelname)s: %(message)s', level=logging.INFO)
 import warnings
 warnings.filterwarnings(action="ignore", module="scipy", message="^internal gelsd")
 
-N = 10000 # model max vocabulary size
+N = 1000000 # model max vocabulary size
 D = 300 # model vector dimension
 
 # lightweight wrapper for interfacing with .vec files 
