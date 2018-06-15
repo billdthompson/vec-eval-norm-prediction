@@ -1,0 +1,6 @@
+,correlation,norm,testedon,trainedon,vectors
+0,0.7781966932968647,valence,1090,3186,sub.nl.vec
+1,0.7181899777338484,arousal,1090,3186,sub.nl.vec
+2,0.6334815264861677,dominance,1090,3186,sub.nl.vec
+3,0.6552623697241784,aoa,7138,21415,sub.nl.vec
+4,0.8156192447365538,concreteness,6898,20781,sub.nl.vec
